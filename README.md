@@ -8,8 +8,8 @@ After clone the project in Unity, go to File and press Build Settings, and switc
 
 ## Resources and credits
 
-I used [piskelapp](https://www.piskelapp.com/) to create the sprites for free
-I used [freesound](https://freesound.org/) to download free sounds
+* I used [piskelapp](https://www.piskelapp.com/) to create the sprites for free
+* I used [freesound](https://freesound.org/) to download free sounds
 
 #### Sounds license
 
