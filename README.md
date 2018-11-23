@@ -16,7 +16,7 @@ After clone the project in Unity, go to File and press Build Settings, and switc
 * [CreativeCommons license](https://creativecommons.org/licenses/by/3.0/legalcode)
 * [Summary](https://creativecommons.org/licenses/by/3.0/)
 
-#### The list of sounds used in the project:
+#### Sounds used in the project:
 
 * [Background](https://freesound.org/people/NightWolfCFM/sounds/425134/)
 * [Shoot](https://freesound.org/people/MusicLegends/sounds/344310/)
