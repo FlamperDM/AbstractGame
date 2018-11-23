@@ -20,7 +20,7 @@ namespace AbstractGame.ThirdPerson
 
         public AudioSource powerSong;
 
-        public AudioSource bulletSong;
+        public AudioSource shootSong;
 
         void Awake()
         {
@@ -50,7 +50,7 @@ namespace AbstractGame.ThirdPerson
                 bullet.transform.localPosition = new Vector2(bullet.transform.localPosition.x, bullet.transform.localPosition.y + 0.8f);
                 bullet.GetComponent<Bullet>().speed = speed;
 
-                bulletSong.Play();
+                shootSong.Play();
                 yield return new WaitForSeconds(fireRate);
             }
             yield return null;

@@ -16,7 +16,7 @@ namespace AbstractGame.ThirdPerson
         void Awake()
         {
             characterController = GetComponent<CharacterController2D>();
-            joystick = GameObject.Find("Floating Joystick").GetComponent<Joystick>();
+            joystick = GameObject.Find("Variable Joystick").GetComponent<Joystick>();
         }
         void Update()
         {
