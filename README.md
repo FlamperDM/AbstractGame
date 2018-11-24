@@ -12,7 +12,7 @@ After clone the project in Unity, go to File and press Build Settings, and switc
 
 #### Assets store
 
-- [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595). Check [GitHub here](https://github.com/dentedpixel/LeanTween)
+- [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595). Check [GitHub](https://github.com/dentedpixel/LeanTween)
 - [Post Processing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912). Check [tutorial](https://www.youtube.com/watch?v=a0OQvWAPeuo)
 - [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631). Check [tutorial](https://www.youtube.com/watch?v=bp2PiFC9sSs)
 
@@ -22,12 +22,12 @@ After clone the project in Unity, go to File and press Build Settings, and switc
 
 #### Package manager
 
-- [2D Pixel Perfect](https://www.youtube.com/watch?v=CU4YjSZNTnY). Check [GitHub here](https://github.com/Unity-Technologies/2d-pixel-perfect)
-- [Cinemachine](https://unity3d.com/learn/tutorials/topics/animation/using-cinemachine-getting-started). Check [website here](https://www.cinemachineimagery.com/)
+- [2D Pixel Perfect](https://www.youtube.com/watch?v=CU4YjSZNTnY). Check [GitHub](https://github.com/Unity-Technologies/2d-pixel-perfect)
+- [Cinemachine](https://unity3d.com/learn/tutorials/topics/animation/using-cinemachine-getting-started). Check [website](https://www.cinemachineimagery.com/)
 
 ## Sprites
 
-I used [piskelapp](https://www.piskelapp.com/) to create my own sprites for free. Also, you can find free sprites, tilemaps and sounds in [OpenGameArt](https://opengameart.org/).
+I used [PiskelApp](https://www.piskelapp.com/) to create my own sprites for free. Also, you can find free sprites, tilemaps and sounds in [OpenGameArt](https://opengameart.org/).
 
 #### Alternatives to create sprites
 
@@ -38,7 +38,7 @@ I used [piskelapp](https://www.piskelapp.com/) to create my own sprites for free
 
 ## Sounds
 
-I used [freesound](https://freesound.org/) to download sounds for free. Also, you can create your own music for free with [Bosca Ceoil](https://boscaceoil.net/). Check tutorial from [Brackeys here](https://www.youtube.com/watch?v=fZeZ75gM9p4)
+I used [FreeSound](https://freesound.org/) to download sounds for free. Also, you can create your own music for free with [Bosca Ceoil](https://boscaceoil.net/). Check tutorial from [Brackeys here](https://www.youtube.com/watch?v=fZeZ75gM9p4)
 
 #### Sounds used in the project:
 
