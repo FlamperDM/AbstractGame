@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a demo game developed for iOS and Android in Unity3D version 2018.2.15f1. The purpose of this example code is to learn how to make a 2D game in Unity.
+This is a demo game developed for iOS and Android in Unity3D version 2018.2.15f1. The purpose of this example project is to learn how to create a 2D game in Unity.
 
 ## Instructions
 
@@ -40,7 +40,7 @@ I used [PiskelApp](https://www.piskelapp.com/) to create my own sprites for free
 
 I used [FreeSound](https://freesound.org/) to download sounds for free. Also, you can create your own music for free with [Bosca Ceoil](https://boscaceoil.net/). Check tutorial from [Brackeys here](https://www.youtube.com/watch?v=fZeZ75gM9p4)
 
-#### Sounds used in the project:
+#### Sounds used in the project
 
 - [Background](https://freesound.org/people/NightWolfCFM/sounds/425134/)
 - [Shoot](https://freesound.org/people/MusicLegends/sounds/344310/)
