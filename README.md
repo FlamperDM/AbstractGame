@@ -38,7 +38,7 @@ I used [piskelapp](https://www.piskelapp.com/) to create my own sprites for free
 
 ## Sounds
 
-- I used [freesound](https://freesound.org/) to download sounds for free. Also, you can create your own music for free with [Bosca Ceoil](https://boscaceoil.net/). Check tutorial from [Brackeys here](https://www.youtube.com/watch?v=fZeZ75gM9p4)
+I used [freesound](https://freesound.org/) to download sounds for free. Also, you can create your own music for free with [Bosca Ceoil](https://boscaceoil.net/). Check tutorial from [Brackeys here](https://www.youtube.com/watch?v=fZeZ75gM9p4)
 
 #### Sounds used in the project:
 
