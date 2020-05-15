@@ -4,6 +4,7 @@
 
 This is a demo game developed for iOS and Android in Unity3D version 2018. The purpose of this example project is to learn how to create a 2D game in Unity.
 
+Click in the picture to watch the video gameplay.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oX0JNEitblY/0.jpg)](https://www.youtube.com/watch?v=oX0JNEitblY)
 
